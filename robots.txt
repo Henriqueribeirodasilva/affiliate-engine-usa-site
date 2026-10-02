@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
 
-# Change to "Allow: /" only after legal pages, contact channel, and the first
-# fact-checked article are ready for public indexing.
+# Public crawling is enabled for affiliate-network ownership verification.
